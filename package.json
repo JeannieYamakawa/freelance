@@ -2,8 +2,13 @@
   "name": "Jeannie",
   "title": "Jeannie Yamakawa",
   "version": "3.3.7+1",
-  "homepage": "http://startbootstrap.com/template-overviews/freelancer",
   "author": "Jeannie Yamakawa",
+  "engines": {
+  "node": "6.3.1"
+  },
+  "scripts": {
+    "start": "php -S localhost:8000"
+  },
   "devDependencies": {
     "bootstrap": "^3.3.7",
     "browser-sync": "^2.13.0",
