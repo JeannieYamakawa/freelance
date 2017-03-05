@@ -439,3 +439,6 @@ footer .footer-below {
     opacity: 0;
     display: none;
 }
+.spacing {
+    margin-top: 13px;
+}
