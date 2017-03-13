@@ -442,3 +442,6 @@ footer .footer-below {
 .spacing {
     margin-top: 13px;
 }
+.cursorpoint {
+    cursor: pointer;
+}
